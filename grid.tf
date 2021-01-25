@@ -1,7 +1,7 @@
 provider "aws" {
   region = "us-east-1"
-  access_key = "AKIA5LOGM5HHT7V3AEMT"
-  secret_key = "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"
+  access_key = "AKIASOMETHINGELSE"
+  secret_key = "OzGPZdUBSOMETHINGNOW7Uych61ZS093/+YKxG1osi"
 }
 
 # 1.Create S3 static site to host the content
