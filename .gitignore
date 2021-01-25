@@ -1,0 +1,33 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+.DS_Store
+
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Project-local glide cache, RE: https://github.com/Masterminds/glide/issues/736
+.glide/
+
+# Build distribution folder
+dist/
+
+# Vendor folder
+/vendor
+
+# Output Binary
+TechChallengeApp
+
+# Terraform
+*.tfstate
+*.tfstate.backup
+*.tfstate.lock
+.terraform/
+.DS_Store
+.terraform.*
+*.pem
